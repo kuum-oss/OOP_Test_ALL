@@ -66,5 +66,5 @@
 <div align="center">
   <img src="https://media.tenor.com/Lu3ZB5FTDdwAAAAi/duong2.gif" width="10%" style="max-width: 150px; border-radius: 15px;"/>
   <br><br>
-  <b>Дякую за увагу! ⭐</b>
+  <b>Дякую за увагу!Тисни Star ⭐</b>
 </div>
